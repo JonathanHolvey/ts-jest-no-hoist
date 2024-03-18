@@ -1,0 +1,8 @@
+{"context":{"allowJs":false,"logLevel":20,"namespace":"jest-preset","package":"ts-jest","version":"29.1.2"},"message":"creating jest presets not handling JavaScript files","sequence":1,"time":"2024-03-18T05:48:13.170Z"}
+{"context":{"allowJs":false,"logLevel":20,"namespace":"jest-preset","package":"ts-jest","version":"29.1.2"},"message":"creating jest presets not handling JavaScript files","sequence":2,"time":"2024-03-18T05:48:13.188Z"}
+{"context":{"logLevel":20,"namespace":"Importer","package":"ts-jest","version":"29.1.2"},"message":"creating Importer singleton","sequence":3,"time":"2024-03-18T05:48:13.877Z"}
+{"context":{"actualVersion":"29.7.0","expectedVersion":">=29.0.0 <30","logLevel":20,"namespace":"versions","package":"ts-jest","version":"29.1.2"},"message":"checking version of jest: OK","sequence":4,"time":"2024-03-18T05:48:13.901Z"}
+{"context":{"logLevel":20,"namespace":"ts-jest-transformer","package":"ts-jest","version":"29.1.2"},"message":"created new transformer","sequence":5,"time":"2024-03-18T05:48:13.901Z"}
+{"context":{"logLevel":20,"namespace":"ts-jest-transformer","package":"ts-jest","version":"29.1.2"},"message":"created new transformer","sequence":6,"time":"2024-03-18T05:48:13.918Z"}
+{"context":{"logLevel":20,"namespace":"ts-jest-transformer","package":"ts-jest","version":"29.1.2"},"message":"created new transformer","sequence":7,"time":"2024-03-18T05:48:14.299Z"}
+{"context":{"logLevel":20,"namespace":"ts-jest-transformer","package":"ts-jest","version":"29.1.2"},"message":"created new transformer","sequence":8,"time":"2024-03-18T05:48:14.455Z"}
